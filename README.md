@@ -2,7 +2,7 @@
 This project focuses on performing Exploratory Data Analysis (EDA) on a given dataset to uncover insights, identify patterns, and prepare the data for further modeling or analysis. 
 
 This project focuses on the essential data science tasks of data cleaning and exploratory data analysis (EDA). The goal is to take a raw dataset, clean it for analysis, handle missing or inconsistent values, and derive meaningful insights using Python libraries like Pandas, Matplotlib, and Seaborn.
-
+  
 Dataset
 
 The dataset used is [Telecom churn].
