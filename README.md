@@ -72,7 +72,8 @@ Correlation heatmaps.
 Bar plots, histograms, box plots, etc.
 currently in this step for now 
 
-
+5. Machine Learning Algorithm
+ Built An Weighted Logistice Regression Model to Accurately predict Customer Churn
 
 5. Insights and Conclusions
 
