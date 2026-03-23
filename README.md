@@ -61,7 +61,7 @@ Removing duplicates.
 
 Fixing data types (e.g., converting object to datetime).
 
-
+ 
 
 4. EDA and Visualization
 
@@ -77,6 +77,6 @@ currently in this step for now
 
 5. Insights and Conclusions
 
-Sample Insights
+Sample Insight
 
 [e.g., "Sales peaked in December with a 30% increase over the yearly average."]
