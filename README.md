@@ -80,3 +80,8 @@ currently in this step for now
 Sample Insight
 
 [e.g., "Sales peaked in December with a 30% increase over the yearly average."]
+
+6. ML ALgorithms Used
+
+   Weighted Logistic Regression
+   
